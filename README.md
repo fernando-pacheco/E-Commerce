@@ -1,5 +1,5 @@
 # Projeto E-commerce 
-Um projeto extremamente simples de e-commerce (ainda incompleto) feito com 
+Um projeto extremamente simples de e-commerce feito com 
 Django 2.2.4 e Python 3.7.3.
 
 ### Conteúdo educacional
@@ -36,13 +36,13 @@ máquina local:
 - Instalar git (Windows, Linux e Mac) e depois:
 
 ```
-git clone https://github.com/luizomf/django-simple-ecommerce.git
+git clone https://https://github.com/fernando-pacheco/E-Commerce
 ```
 
 - Para **Windows**:
 
 ```
-cd django-simple-ecommerce
+cd E-Commerce
 python -m venv venv
 venv\Scripts\activate.bat
 python -m pip install --upgrade pip setuptools wheel --user
@@ -53,7 +53,7 @@ python manage.py migrate
 - Para **Linux**:
 
 ```
-cd django-simple-ecommerce
+cd E-Commerce
 python3.7 -m venv venv
 . venv/bin/activate
 pip install django django-debug-toolbar django-crispy-forms pillow
@@ -63,7 +63,7 @@ python manage.py migrate
 - Para **Mac**
 
 ```
-cd django-simple-ecommerce
+cd E-Commerce
 python -m venv venv
 . venv/bin/activate
 pip install django django-debug-toolbar django-crispy-forms pillow
